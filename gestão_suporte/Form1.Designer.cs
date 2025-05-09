@@ -33,12 +33,13 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(307, 206);
+            this.button1.Location = new System.Drawing.Point(294, 157);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(161, 40);
+            this.button1.Size = new System.Drawing.Size(256, 78);
             this.button1.TabIndex = 0;
             this.button1.Text = "Entrar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.btnEntrar);
             // 
             // Form1
             // 

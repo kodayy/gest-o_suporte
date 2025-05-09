@@ -16,5 +16,10 @@ namespace gestão_suporte
         {
             InitializeComponent();
         }
+
+        private void btnEntrar(object sender, EventArgs e)
+        {
+            MessageBox.Show("bem vindo ao sistema!");
+        }
     }
 }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestão_suporte", "gestão_suporte\gestão_suporte.csproj", "{261EA1E8-EBFC-4566-9CC9-521CC20B2986}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestaoSuporte", "gestão_suporte\gestaoSuporte.csproj", "{261EA1E8-EBFC-4566-9CC9-521CC20B2986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
